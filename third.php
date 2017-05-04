@@ -117,7 +117,6 @@
 						</button>
 					</form>
 					    
-					    
 					    <li class="dropdown">
 							 <a href="#" class="dropdown-toggle" data-toggle="dropdown">About<strong class="caret"></strong></a>
 							<ul class="dropdown-menu">
@@ -141,19 +140,14 @@
 							</ul>
 						</li>
 						
-						
 						<a href="login1.php"><button type="button" class="button1">Log In</button></a>
 						<a href="signup1.php"><button type="button" class="button2">Sign Up</button></a>
 						
-					
 				</div>
 				</nav>
        </div>
     </div>
 </div>
-
-
-
 
 <table>
 <tr>
@@ -172,8 +166,6 @@
 </td>
 </tr>
 </table>
-
-
 
 <br>
 
